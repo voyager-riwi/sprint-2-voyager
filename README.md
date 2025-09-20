@@ -173,4 +173,7 @@ To contribute to the project:
 4. Test modifications thoroughly
 5. Submit pull request with detailed description
 
+## Authors
 
+- **Jerónimo Gutiérrez Arias**
+- **Diego Alejandro Zuluaga Yepes**
